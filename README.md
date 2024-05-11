@@ -2,8 +2,11 @@
 1 and 2 player game to fill board with colors. 
 
 To get the project working you will need:
+
 -a few packages: Pysimplegui, traceback, pathlib, pylab (you can replace this with numpy I believe)
+
 -download the python and config files in "main" branch
+
 -make a folder called 'icons' in the downloaded folder. Then download all the images in "icon" branch into that folder
 
 The rules are a bit different for 1 and 2 players, but the idea of both is colors can only be adjacent to adjacent colors on the colors wheel.
