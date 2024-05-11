@@ -152,7 +152,7 @@ def setup(window=None):
     p1han = [0]*hand
     
     # Create the Window
-    window = sg.Window('Color Wheel (David Montealegre)', lay(),finalize=True, element_justification='c',icon=r''+iconpath+"colorwheel.ico")
+    window = sg.Window('Color Wheel (Dr. Donut build lab)', lay(),finalize=True, element_justification='c',icon=r''+iconpath+"colorwheel.ico")
     
     for h in range(hand):
         nc = py.randint(6)+1
